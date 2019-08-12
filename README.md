@@ -6,6 +6,6 @@
 
 * [OpenWorm GSoC19 Repository](https://github.com/openworm/bt-gsoc-2019)
 
-* [PyOpenWorm Pull Requests](https://github.com/jaideep-seth/Torrent_client_gsoc19)
+* [PyPI package repository](https://github.com/jaideep-seth/Torrent_client_gsoc19)
 
 * [Client available on PyPI](https://pypi.org/project/torrent-client/)
