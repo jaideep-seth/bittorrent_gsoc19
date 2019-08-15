@@ -1,9 +1,12 @@
 
-# Project Title
+# Aim:
 
-One Paragraph of project description goes here
+- My mentors and I aim to integrate within PyOpenWorm a P2P FileSharing framework with features like access control and data integrity checks for the content being shared.  
 
-## Getting Started
+- Our highest priority is to have no additional installation efforts required for this framework and that there is no change to the manner in which [PyOpenWorm currently installs](https://github.com/openworm/PyOpenWorm/blob/dev/INSTALL.md), while also not leaving the Command Line Interface(CLI).
+
+
+## What has been done
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
