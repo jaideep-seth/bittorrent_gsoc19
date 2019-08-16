@@ -6,7 +6,8 @@
 
 * Our highest priority is to have no additional installation steps and minimal user effort to utilize this framework. We want no change to the manner in which [PyOpenWorm currently installs](https://github.com/openworm/PyOpenWorm/blob/dev/INSTALL.md), while also not leaving the Command Line Interface(CLI).
 
-
+     [This was my proposal.](https://docs.google.com/document/d/1FqSYyv-zGsr9IKbGutvW1Ro0gnfel46HDJuJ5YxhDzU/edit)
+  
 ## What has been done?
 
 * Merged code for creating a [torrent_file_informational.](https://github.com/openworm/PyOpenWorm/pull/424) 
