@@ -20,7 +20,7 @@
 * [Made a PR](https://github.com/openworm/PyOpenWorm/pull/449) to Subclass DataSourceLoader and implement its load method in BitTorrentDataSourceDirLoader. Setup and access control dependencies of the BitTorrent Client are included alongwith an
 integration test.  
 
-* Setup a [Ubuntu container with an Elastic IP on AWS](https://13.235.204.78) , this server is implemented to improve user experience and avoid required installations needed for seeding contents to BitTorrent.
+* Setup a [Ubuntu container with an Elastic IP on AWS](http://13.235.204.78) , this server is implemented to improve user experience and avoid required installations needed for seeding contents to BitTorrent.
 
 ### Prerequisites
 
