@@ -30,8 +30,7 @@
 
 * Automate the data integrity checks. The data integrity checks can only be cleared if 100% of the contents are downloaded.
 Currently the user must execute a command on completion of downloading to ensure that contents are unaltered. 
- 
- [Making the framework increasingly user friendly is a continuous process.]
+   [Making the framework increasingly user friendly is a continuous process.]
 
 ## Authors
 
