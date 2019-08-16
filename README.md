@@ -13,6 +13,10 @@
 
 * Packaged a BitTorrent Client, [now available on PyPI.](https://pypi.org/project/torrent-client/) This is its [Github repository](https://github.com/jaideep-seth/Torrent_client_gsoc19).
 
+* [Merged Files](https://github.com/openworm/OpenWormData/pull/4) for access control features of the framework.
+
+* The stand-alone repository for the end to end process of the framework, [created within PyOpenWorm]((https://github.com/openworm/bt-gsoc-2019).
+
 
 ### Prerequisites
 
