@@ -23,9 +23,15 @@
 
 * [Merged the documentation](https://github.com/openworm/PyOpenWorm/pull/451) for the process of Uploading and Downloading desired contents.
 
-### Prerequisites
+## What has to be done?
 
-What things you need to install the software and how to install them
+* Get the PR for BitTorrentDataSourceDirLoader merged.
+  This has been impeded as some BitTorrent Client dependencies do not support Python 2.7 while PyOpenWorm has a Travis CI      [Python 2.7 build environment test](https://travis-ci.org/openworm/PyOpenWorm/builds/570287259?utm_source=github_status&utm_medium=notification).
+
+* Automate the data integrity checks. The data integrity checks can only be cleared if 100% of the contents are downloaded.
+Currently the user must execute a command on completion of downloading to ensure that contents are unaltered. 
+
+[Making the framework increasingly user friendly is a continuous process.]
 
 ## Authors
 
