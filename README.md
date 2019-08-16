@@ -17,8 +17,7 @@
 
 * The stand-alone repository for describing the end to end process of the framework, [created within OpenWorm](https://github.com/openworm/bt-gsoc-2019).
 
-* [Made a PR](https://github.com/openworm/PyOpenWorm/pull/449) to Subclass DataSourceLoader and implement its load method in BitTorrentDataSourceDirLoader. Setup and access control dependencies of the BitTorrent Client are included alongwith an
-integration test.  
+* [Made a PR](https://github.com/openworm/PyOpenWorm/pull/449) to Subclass DataSourceLoader and implement its load method in BitTorrentDataSourceDirLoader. The setup and access control dependencies of the BitTorrent Client are included alongwith an integration test.  
 
 * Setup a [Ubuntu container with an Elastic IP on AWS](http://13.235.204.78) , this server is implemented to improve user experience by avoiding required installations needed for seeding contents to BitTorrent.
 
