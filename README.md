@@ -7,9 +7,9 @@
 * Our highest priority is to have no additional installation steps and minimal user effort to utilize this framework. We want no change to the manner in which [PyOpenWorm currently installs](https://github.com/openworm/PyOpenWorm/blob/dev/INSTALL.md), while also not leaving the Command Line Interface(CLI).
 
 
-## What has been done
+## What has been done?
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+* [Instance](http://13.235.204.78)
 
 ### Prerequisites
 
