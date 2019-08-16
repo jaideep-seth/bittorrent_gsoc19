@@ -33,7 +33,7 @@
 Currently the user must execute a command on completion of downloading to ensure that contents are unaltered. 
    [Making the framework increasingly user friendly is a continuous process.]
       
-* Currently desired files are uploaded by visiting the Elastic IP of an AWS instance via a browser. This should also be made possible via the Command Line Interface process. [Maintaining and improving this server is a continuous process.]
+* Currently desired files are uploaded by visiting the Elastic IP of an AWS instance via a browser. This should also be made possible via the Command Line Interface. [Maintaining and improving this server is a continuous process.]
 
 ## Authors
 
