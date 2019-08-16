@@ -15,7 +15,7 @@
 
 * [Merged Files](https://github.com/openworm/OpenWormData/pull/4) for access control features of the framework.
 
-* The stand-alone repository for the end to end process of the framework, [created within PyOpenWorm]((https://github.com/openworm/bt-gsoc-2019).
+* The stand-alone repository for the end to end process of the framework, [created within PyOpenWorm](https://github.com/openworm/bt-gsoc-2019).
 
 
 ### Prerequisites
