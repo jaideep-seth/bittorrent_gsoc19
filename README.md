@@ -1,7 +1,7 @@
 
 # Aim:
 
-- My mentors and I aim to integrate within PyOpenWorm a P2P FileSharing framework with features like access control and data integrity checks to ensure the quality of content being shared.
+- My mentors and I aim to integrate within PyOpenWorm a P2P FileSharing framework with features like access control and data integrity checks to ensure the quality of content being shared. [PyOpenWorm currently installs](https://github.com/openworm/PyOpenWorm/blob/dev/INSTALL.md)
 
 [Project statement and point of integration] (https://neurostars.org/t/gsoc-project-idea-16-1-peer-to-peer-file-and-metadata-sharing-for-openworm-data-management/3386)
 
