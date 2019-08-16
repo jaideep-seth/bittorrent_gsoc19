@@ -9,7 +9,10 @@
 
 ## What has been done?
 
-* [Instance](http://13.235.204.78)
+* Merged code for creating a [torrent_file_informational.](https://github.com/openworm/PyOpenWorm/pull/424) 
+
+* Packaged a BitTorrent Client, [now available on PyPI.](https://pypi.org/project/torrent-client/) This is its [Github repository](https://github.com/jaideep-seth/Torrent_client_gsoc19).
+
 
 ### Prerequisites
 
