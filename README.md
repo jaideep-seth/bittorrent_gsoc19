@@ -35,13 +35,9 @@ Currently the user must execute a command on completion of downloading to ensure
       
 * Currently desired files are uploaded by visiting the Elastic IP of an AWS instance via a browser. This should also be made possible via the Command Line Interface. [Maintaining and improving this server is a continuous process.]
 
-## Authors
+## Others
 
-* **Billie Thompson** - *Initial work* - [Instance](http://13.235.204.78)
-
-
-
-
+* [My INCF journey](https://jaideep-seth.github.io/incf_journey/)
 
 * [PyOpenWorm commits](https://github.com/openworm/PyOpenWorm/commits?author=jaideep-seth)
 
@@ -49,8 +45,3 @@ Currently the user must execute a command on completion of downloading to ensure
 
 * [PyOpenWorm Pull Requests](https://github.com/openworm/PyOpenWorm/pulls/jaideep-seth)
 
-* [OpenWorm GSoC19 Repository](https://github.com/openworm/bt-gsoc-2019)
-
-* [PyPI package repository](https://github.com/jaideep-seth/Torrent_client_gsoc19)
-
-* [Client available on PyPI](https://pypi.org/project/torrent-client/)
