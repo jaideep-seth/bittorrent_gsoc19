@@ -45,7 +45,4 @@ Currently the user must execute a command on completion of downloading to ensure
 
 * [PyOpenWorm Pull Requests](https://github.com/openworm/PyOpenWorm/pulls/jaideep-seth)
 
-
-
-
-[My LinkedIn](https://www.linkedin.com/in/jaideep-seth-302bba10a/)
+* [My LinkedIn profile](https://www.linkedin.com/in/jaideep-seth-302bba10a/)
