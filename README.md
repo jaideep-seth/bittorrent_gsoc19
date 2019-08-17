@@ -37,7 +37,7 @@ Currently the user must execute a command on completion of downloading to ensure
 
 ## Others
 
-* [My INCF journey](https://jaideep-seth.github.io/incf_journey/)
+* [My INCF journey](https://jaideep-seth.github.io/bittorrent_gsoc19./)
 
 * [PyOpenWorm commits](https://github.com/openworm/PyOpenWorm/commits?author=jaideep-seth)
 
